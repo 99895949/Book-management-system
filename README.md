@@ -2,6 +2,8 @@
 中文简介：
 [README-CN.md](https://github.com/NoahsArk36/Book-management-system/blob/master/README-CN.MD)
 
+![截图](BUCT.jpg)
+
 The final course of the C language course of Beijing University of Chemical Technology, which is provided to the junior male schoolmates and junior female schoolmates for reference. 
 
 Please do not copy the code completely. 

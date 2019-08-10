@@ -1,5 +1,5 @@
 # Book-management-system
-[中文简介](https://github.com/NoahsArk36/Book-management-system/blob/master/README-CN.MD)
+[中文说明](https://github.com/NoahsArk36/Book-management-system/blob/master/README-CN.MD)
 
 The final course of the C language course of Beijing University of Chemical Technology, which is provided to the junior male schoolmates and junior female schoolmates for reference. 
 

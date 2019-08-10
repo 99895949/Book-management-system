@@ -8,3 +8,6 @@ This program has many shortcomings，please improve by yourselves if the code is
 Original code author：NoahsArk36.
 
 This program is a completely open source, please do not use it for commercial purposes.
+
+中文简介：
+[Mozilla](https://github.com/NoahsArk36/Book-management-system/blob/master/README-CN.MD)

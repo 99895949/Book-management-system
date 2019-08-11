@@ -12,3 +12,5 @@ Original code author：NoahsArk36.
 This program is a completely open source, please do not use it for commercial purposes.
 
 ![截图](BUCT.jpg)
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)

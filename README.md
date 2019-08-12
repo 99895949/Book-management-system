@@ -9,7 +9,9 @@ This program has many shortcomings，please improve by yourselves if the code is
 
 Original code author：NoahsArk36.
 
-This program is a completely open source, please do not use it for commercial purposes.
+License：[MIT](https://opensource.org/licenses/MIT)
+
+This program is a project that follows the MIT open source license. Please do not use it for commercial purposes. Any consequences of any form of secondary use of the Program Code are not related to the original author.
 
 ![截图](BUCT.jpg)
 
